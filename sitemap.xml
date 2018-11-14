@@ -28,6 +28,22 @@
     
     <url>
     
+      <loc>https://bushite.github.io/project/rubiks-cube/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bushite.github.io/project/smooth-feature-line/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://bushite.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -45,6 +61,24 @@
     
     <url>
     
+      <loc>https://bushite.github.io/tags/graphics/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://bushite.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://bushite.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -54,6 +88,7 @@
     <url>
     
       <loc>https://bushite.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
