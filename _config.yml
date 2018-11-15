@@ -1,4 +1,0 @@
-# Deployment
-deploy:
-  type: git
-  repo: https://github.com/Bushite/Bushite.github.io
